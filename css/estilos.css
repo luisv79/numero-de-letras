@@ -1,0 +1,38 @@
+
+h1{
+font-family: Arial, Helvetica, sans-serif;
+color:#0c82d1;
+text-align: center;
+}
+
+h3{
+   font-family: Arial, Helvetica, sans-serif;
+   color:red;
+   text-align: center;
+}
+
+.caja{
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgba(80, 80, 80, .5);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+   
+
+}
+
+.boton{
+    font-size: 20px;
+    background: #0c82d1;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    width: 200px;
+    height: 50px;
+    position: relative;
+}
+
+.cajaboton{
+    text-align: center;
+}
